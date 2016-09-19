@@ -12,6 +12,64 @@ automatically downloaded, then cached.
 The bar plot indicates the accuracy, training time (normalized) and test time
 (normalized) of each classifier.
 
+----------------------------------------------------------------------------------
+
+Please visit this first : http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+
+----------------------------------------------------------------------------------
+
+
+According dito sa kabuuan ng code search for this "clf.fit(X_train, y_train)"
+
+data_train.target is the y (yung classes) Example given: data_train.target[0] = 3 == sci.space
+
+data_train.data is the x (yung value nung data pag ginamitan mo ng spares function) = "Many words here"
+
+bale ang isang buong array set ay finifit sa (x,y) using clf.fit(X_train, y_train) 
+
+makikita mo to sa benchmark function
+
+------------------------------------------------------------------------------------------------
+
+According to the statement above ganto yung unang step niya
+
+vectorizer = TfidfVectorizer(sublinear_tf=True, max_df=0.5,
+                                 stop_words='english')
+X_train = vectorizer.fit_transform(data_train.data)
+
+using "Term Frequency times Inverse Document Frequency"
+
+
+print("n_samples: %d, n_features: %d" % X_test.shape)
+
+n_samples : number of files
+
+n_features : number of features / words
+
+
+-------------------------------------------------------------------------
+
+Sample ng pagpepredict nila
+According to this source : http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html#training-a-classifier
+
+>>> docs_new = ['God is love', 'OpenGL on the GPU is fast']
+>>> X_new_counts = count_vect.transform(docs_new)
+>>> X_new_tfidf = tfidf_transformer.transform(X_new_counts)
+
+#line kung san nagcaclassify or nagpepredict ng classes
+
+>>> predicted = clf.predict(X_new_tfidf) 
+
+>>> for doc, category in zip(docs_new, predicted):
+...     print('%r => %s' % (doc, twenty_train.target_names[category]))
+...
+'God is love' => soc.religion.christian
+'OpenGL on the GPU is fast' => comp.graphics
+
+-------------------------------------------------------------------------------
+
+
+
 """
 
 from __future__ import print_function
@@ -91,10 +149,10 @@ if opts.all_categories:
     categories = None
 else:
     categories = [
-        'alt.atheism',
-        'talk.religion.misc',
-        'comp.graphics',
-        'sci.space',
+        'alt.atheism', #0
+        'talk.religion.misc', #3
+        'comp.graphics', #1
+        'sci.space', #2
     ]
 
 if opts.filtered:
@@ -120,14 +178,151 @@ print('itedaikemasu')
 
 categories = data_train.target_names    # for case categories == None
 
-print('fist categ')
-for t in data_train.target[:100]:
-	print(data_train.data[0])
-print('end fist categ')
+
+print('iTEMS AND cATEGORIES')
+
+#paano nakukuha yung target name?
+#print(data_train.data[5])
+#print(data_train.target_names[5])
+
+#print (data_train.target[90])
+
+print ("first 10")
+print(data_train.target[:10])
+
+
+
+print('##################START#########################')
+
+
+print (data_train.target[1])
+print (data_train.target_names[data_train.target[1]])
+print (data_train.data[1])
+print (data_train.filenames[1])
+
+
+
+print('##################END#########################')
+
+
+print('##################START#########################')
+
+
+print (data_train.target[442])
+print(data_train.target_names[data_train.target[442]])
+print (data_train.data[442])
+print (data_train.filenames[442])
+
+
+
+print('##################END#########################')
+
+
+
+print('##################START#########################')
+
+
+print (data_train.target[332])
+print(data_train.target_names[data_train.target[332]])
+print (data_train.data[332])
+print (data_train.filenames[332])
+
+
+
+print('##################END#########################')
+
+
+
+print('##################START#########################')
+
+
+print (data_train.target[357])
+print(data_train.target_names[data_train.target[357]])
+print (data_train.data[357])
+print (data_train.filenames[357])
+
+
+
+print('##################END#########################')
+
+
+
+print('##################START#########################')
+
+
+print (data_train.target[66])
+print(data_train.target_names[data_train.target[66]])
+print (data_train.data[66])
+print (data_train.filenames[66])
+
+
+
+print('##################END#########################')
+
+
+
+print('##################START#########################')
+
+
+print (data_train.target[567])
+print(data_train.target_names[data_train.target[567]])
+print (data_train.data[567])
+print (data_train.filenames[567])
+
+
+
+print('##################END#########################')
+
+
+print('###################START########################')
+
+print (data_train.target[210])
+print(data_train.target_names[data_train.target[210]])
+print (data_train.data[210])
+print (data_train.filenames[210])
+
+print('##################END#########################')
+
+print('##################START#########################')
+
+
+print (data_train.target[90])
+print(data_train.target_names[data_train.target[90]])
+print (data_train.data[90])
+print (data_train.filenames[90])
+
+print('##################END#########################')
+
+
+print('##################START#########################')
+
+
+print (data_train.target[55])
+print(data_train.target_names[data_train.target[55]])
+print (data_train.data[55])
+print (data_train.filenames[55])
+
+
+
+print('##################END#########################')
+
+
+print('##################START#########################')
+
+
+print (data_train.target[87])
+print(data_train.target_names[data_train.target[87]])
+print (data_train.data[87])
+print (data_train.filenames[87])
+
+
+
+print('##################END#########################')
 
 print("The categories are")
 print (categories)
 print ("after categories");
+
 def size_mb(docs):
     return sum(len(s.encode('utf-8')) for s in docs) / 1e6
 
@@ -143,6 +338,8 @@ print("%d categories" % len(categories))
 # split a training set and a test set
 y_train, y_test = data_train.target, data_test.target
 
+
+#feature extraction using training data
 print("Extracting features from the training data using a sparse vectorizer")
 t0 = time()
 if opts.use_hashing:
@@ -153,10 +350,13 @@ else:
     vectorizer = TfidfVectorizer(sublinear_tf=True, max_df=0.5,
                                  stop_words='english')
     X_train = vectorizer.fit_transform(data_train.data)
+
 duration = time() - t0
 print("done in %fs at %0.3fMB/s" % (duration, data_train_size_mb / duration))
 print("n_samples: %d, n_features: %d" % X_train.shape)
-print()
+#samples over features X_train.shape
+
+#feature extraction using test data#
 
 print("Extracting features from the test data using the same vectorizer")
 t0 = time()
@@ -190,6 +390,9 @@ if feature_names:
     feature_names = np.asarray(feature_names)
 
 
+
+#trim to fit on the terminal
+
 def trim(s):
     """Trim string to fit on terminal (assuming 80-column display)"""
     return s if len(s) <= 80 else s[:77] + "..."
@@ -197,7 +400,8 @@ def trim(s):
 
 ###############################################################################
 # Benchmark classifiers
-def benchmark(clf):
+
+def benchmark(clf): #clf is the clasifier
     print('_' * 80)
     print("Training: ")
     print(clf)
