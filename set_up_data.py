@@ -1,7 +1,7 @@
 import re
 
 # for extracting data and class per line in the file
-pattern = '(?P<data_name>.+)\\|\s*(?P<class>\d*)'
+pattern = '(?P<name>.+)\\|\s*(?P<class>\d*)'
 regex = re.compile(pattern)
 
 # data set file names
@@ -11,63 +11,50 @@ delete_task_dataset = 'Delete.txt'
 retrieve_task_dataset = 'List.txt'
 
 
-def get_data_from_file(filename=''):
+def read_from_file(filename=''):
     try:
         file = open(filename, "r")
 
         data = []
+        classes = []
 
         for line in file:
             result = re.match(regex, line)
 
-            data_name = result.group('data_name')
-            data_name = data_name.strip()
-
-            data.append(data_name)
-
-        return data
-
-    except:
-        print('File does not exist.')
-
-
-def get_data_and_class_from_file(filename=''):
-    try:
-        file = open(filename, "r")
-
-        data = []
-
-        for line in file:
-            result = re.match(regex, line)
-
-            data_name = result.group('data_name')
+            data_name = result.group('name')
             data_name = data_name.strip()
 
             data_class = result.group('class')
             data_class = int(data_class)
 
-            data.append(
-                        dict(
-                             data_name=data_name,
-                             data_class=data_class
-                             )
-                        )
+            data.append(data_name)
+            classes.append(data_class)
 
-        return data
+        file.close()
+
+        return dict(names=data,
+                    classes=classes)
 
     except:
         print('File does not exist.')
 
 
-def get_training_data():
-    create_data = get_data_from_file(create_task_dataset)
-    delete_data = get_data_from_file(delete_task_dataset)
-    retrieve_data = get_data_from_file(retrieve_task_dataset)
+def get_data():
+    create_data_set = read_from_file(create_task_dataset)
+    delete_data_set = read_from_file(delete_task_dataset)
+    retrieve_data_set = read_from_file(retrieve_task_dataset)
 
     # append data sets
-    training_data = []
-    training_data.extend(create_data)
-    training_data.extend(delete_data)
-    training_data.extend(retrieve_data)
+    data = []
+    data.extend(create_data_set['names'])
+    data.extend(delete_data_set['names'])
+    data.extend(retrieve_data_set['names'])
 
-    return training_data
+    # append classes
+    classes = []
+    classes.extend(create_data_set['classes'])
+    classes.extend(delete_data_set['classes'])
+    classes.extend(retrieve_data_set['classes'])
+
+    return dict(names=data,
+                classes=classes)
