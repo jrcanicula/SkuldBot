@@ -24,19 +24,24 @@ from sklearn.neighbors import NearestCentroid
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.utils.extmath import density
 from sklearn import metrics
+from set_up_data import get_training_data as get_training_data
 
-
-vectorizer = CountVectorizer(analyzer='word', binary=False, decode_error='strict',
-        dtype='numpy.int64', encoding='utf-8', input='content',
-        lowercase=True, 
-        max_df=1.0, 
-        max_features=None, min_df=1,
-        ngram_range=(2, 2), 
-        preprocessor=None, 
-        stop_words=None,
-        strip_accents=None, 
-        token_pattern='(?u)\\b\\w\\w+\\b',
-        tokenizer=None, vocabulary=None)
+vectorizer = CountVectorizer(analyzer='word',
+                             binary=False,
+                             decode_error='strict',
+                             dtype='numpy.int64',
+                             encoding='utf-8',
+                             input='content',
+                             lowercase=True,
+                             max_df=1.0,
+                             max_features=None, min_df=1,
+                             ngram_range=(2, 2),
+                             preprocessor=None,
+                             stop_words=None,
+                             strip_accents=None,
+                             token_pattern='(?u)\\b\\w\\w+\\b',
+                             tokenizer=None,
+                             vocabulary=None)
 
 
 corpus = [
@@ -48,13 +53,22 @@ corpus = [
      'kumakarisma si'
 ]
 
-vectorizer = HashingVectorizer(stop_words='english', non_negative=True,
-                                   n_features=20)
-
-
-
-
-
+vectorizer = HashingVectorizer(stop_words='english',
+                               non_negative=True,
+                               n_features=20)
 print()
-
 print('pogi ako')
+
+training_data = get_training_data()
+
+vectorizer = TfidfVectorizer(sublinear_tf=True,
+                             max_df=0.5,
+                             stop_words='english')
+
+xCoordinateTrainingData = vectorizer.fit_transform(training_data)
+
+penalty = 1.0
+clf = LinearSVC(loss='l2',
+                penalty=penalty,
+                dual=False,
+                tol=1e-3)

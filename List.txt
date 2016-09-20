@@ -1,0 +1,122 @@
+Show list of all the tasks today | 3
+Show list of all the meetings today | 3
+Show all the meeting today | 3
+Show meetings today  | 3
+Show meeting with Erwin today | 3
+Give me the list of meetings today | 3
+List all from today up to tomorrow | 3
+List from 9 pm today up to 10 pm next day | 3
+Show schedule 7pm meeting with Mamaid to 12pm | 3
+Show launch 7pm meeting with Mamaid to 12pm | 3
+Show begin 12pm meeting at McDo | 3
+Show commence 3pm meeting at McKinley Hill | 3
+Show code review task | 3
+Show test cases | 3
+Show job [ung nakaschedule shit. di ko alam term] at 2pm | 3
+Show unit testing task at 5pm | 3
+Show code refactoring task by 11pm | 3
+Show meeting by 1am | 3
+Show presentation materials | 3
+Show coding task at 10am | 3
+Show unit testing at 1am | 3
+Show meeting by 15:00 | 3
+Show automated tests by 14:00 with Charlene | 3
+Show [ung nakaschedule shit. di ko alam term] at 18:00 with Feng | 3
+Show unit testing task at 20:00 with Justin | 3
+Show refactoring task by 00:00 | 3
+Show meeting by 16:00 with Charlene and Feng | 3
+Show 7am meeting with Jaime at Jollibee | 3
+Show 9pm meeting at Pizza Hut with Jaime | 3
+Show deployment task by 2:30pm | 3
+Show 3pm meeting at McKinley Hill | 3
+Show code review task | 3
+Show meeting from 6 pm to 9:20 pm | 3
+Show alarm for 9:20pm meeting with Mamang, Feng, Charlene | 3
+Show skype for meeting with Mamang by 3 am | 3
+Show tasks to deploy by 5:00 am | 3
+Show presentation by 9.30pm | 3
+Show training from 12:00 to 5:00pm | 3
+Show jaime’s schedule today | 3
+ Show me what you got | 3
+Display list of all the tasks today | 3
+Display list of all the meetings today | 3
+Display all the meeting today | 3
+Display meetings today  | 3
+Display meeting with Erwin today | 3
+Display all from today up to tomorrow | 3
+Display from 9 pm today up to 10 pm next day | 3
+Display schedule 7pm meeting with Mamaid to 12pm | 3
+Display launch 7pm meeting with Mamaid to 12pm | 3
+Display begin 12pm meeting at McDo | 3
+Display commence 3pm meeting at McKinley Hill | 3
+Display code review task | 3
+Display test cases | 3
+Display job [ung nakaschedule shit. di ko alam term] at 2pm | 3
+Display unit testing task at 5pm | 3
+Display code refactoring task by 11pm | 3
+Display meeting by 1am | 3
+Display presentation materials | 3
+Display coding task at 10am | 3
+Display unit testing at 1am | 3
+Display meeting by 15:00 | 3
+Display automated tests by 14:00 with Charlene | 3
+Display [ung nakaschedule shit. di ko alam term] at 18:00 with Feng | 3
+Display unit testing task at 20:00 with Justin | 3
+Display refactoring task by 00:00 | 3
+Display meeting by 16:00 with Charlene and Feng | 3
+Display 7am meeting with Jaime at Jollibee | 3
+Display 9pm meeting at Pizza Hut with Jaime | 3
+Display deployment task by 2:30pm | 3
+Display 3pm meeting at McKinley Hill | 3
+Display code review task | 3
+Display alarm for 15:45 meeting | 3
+Display alarm for 9:20pm meeting with Mamang, Feng, Charlene | 3
+Display skype for meeting with Mamang by 3 am | 3
+Display tasks to deploy by 5:00 am | 3
+Display presentation by 9.30pm | 3
+Display training from 12:00 to 5:00pm | 3
+Display jaime’s schedule today | 3
+Display me what you got | 3
+display schedule 7 pm meeting with Mamaid to 12 pm | 3
+display  7 pm meeting with Mamaid to 12 pm | 3
+display 12 pm meeting at McDo | 3
+display 3 pm meeting at McKinley Hill | 3
+display code review task | 3
+display test cases | 3
+display job hello wold at 2 pm | 3
+display unit testing task at 5 pm | 3
+display code refactoring task by 11 pm | 3
+display meeting by 1am | 3
+display presentation materials | 3
+display coding task at 10 am | 3
+display unit testing at 1 am | 3
+display meeting by 15:00 pm  | 3
+display automated tests by 21:00 | 3
+Display all automated test | 3
+Display all you wanted | 3
+Hi bot, display my task list | 3
+Hi bot, list me all | 3
+Hi bot i want to see all my schedule | 3
+Hi bot, let me see my schedule today | 3
+Hi bot, let me see my meetings today | 3
+Let me see all the meetings today | 3
+I want my meetings today | 3
+My meetings today | 3
+My schedule today | 3
+My tasks today | 3
+My task today | 3
+All my works today | 3
+Show me my tasks today | 3
+My schedule tomorrow | 3
+My schedule next month | 3
+My schedule next december | 3
+My meetings next october | 3
+My meetings next week | 3
+My meetings next year | 3
+My meetings next next year | 3
+My meeting next year | 3
+My schedule next year | 3
+My test next year | 3
+My terms next year | 3
+Terms next year | 3
+Meetings next year | 3
