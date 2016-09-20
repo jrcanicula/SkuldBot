@@ -1,0 +1,442 @@
+Delete schedule today up to tomorrow | 2
+Delete task that I scheduled today | 2
+Delete all Tuesday tasks | 2
+Delete all party tasks | 2
+Delete tasks related to Mamaid | 2
+Delete schedules related to the gang | 2
+Delete schedule today from 12 am to 9 pm | 2
+Delete scheduled webinars | 2
+Delete meninist meeting from 12 pm to 9 am | 2
+Delete all the quarrel about love | 2
+Delete task today at 1 am | 2
+Delete task today at 2 am | 2
+Delete task today at 3 am | 2
+Delete task today at 4 am | 2
+Delete task today at 5 am | 2
+Delete task today at 6 am | 2
+Delete task today at 7 am | 2
+Delete task today at 8 am | 2
+Delete task today at 9 am | 2
+Delete task today at 10 am | 2
+Delete task today at 11 am | 2
+Delete task today at 12 am | 2
+Delete task today at 1 pm | 2
+Delete task today at 2 pm | 2
+Delete task today at 3 pm | 2
+Delete task today at 4 pm | 2
+Delete task today at 5 pm | 2
+Delete task today at 6 pm | 2
+Delete task today at 7 pm | 2
+Delete task today at 8 pm | 2
+Delete task today at 10 pm | 2
+Delete task today at 9 pm | 2
+Delete task today at 11 pm | 2
+Delete task today at 12 pm | 2
+Delete task today at 00:00 | 2
+Delete task today at 01:00 | 2
+Delete task today at 02:00 | 2
+Delete task today at 03:00 | 2
+Delete task today at 04:00 | 2
+Delete task today at 05:00 | 2
+Delete task today at 06:00 | 2
+Delete task today at 07:00 | 2
+Delete task today at 08:00 | 2
+Delete task today at 09:00 | 2
+Delete task today at 10:00 | 2
+Delete task today at 11:00 | 2
+Delete task today at 12:00 | 2
+Delete task today at 13:00 | 2
+Delete task today at 14:00 | 2
+Delete task today at 15:00 | 2
+Delete task today at 16:00 | 2
+Delete task today at 17:00 | 2
+Delete task today at 18:00 | 2
+Delete task today at 19:00 | 2
+Delete task today at 20:00 | 2
+Delete task today at 21:00 | 2
+Delete task today at 22:00 | 2
+Delete task today at 23:00 | 2
+Delete schedule today at 00:00 | 2
+Delete schedule today at 01:00 | 2
+Delete schedule today at 02:00 | 2
+Delete schedule today at 03:00 | 2
+Delete schedule today at 04:00 | 2
+Delete schedule today at 05:00 | 2
+Delete schedule today at 06:00 | 2
+Delete schedule today at 07:00 | 2
+Delete schedule today at 08:00 | 2
+Delete schedule today at 09:00 | 2
+Delete schedule today at 10:00 | 2
+Delete schedule today at 11:00 | 2
+Delete schedule today at 12:00 | 2
+Delete schedule today at 13:00 | 2
+Delete schedule today at 14:00 | 2
+Delete schedule today at 15:00 | 2
+Delete schedule today at 16:00 | 2
+Delete schedule today at 17:00 | 2
+Delete schedule today at 18:00 | 2
+Delete schedule today at 19:00 | 2
+Delete schedule today at 20:00 | 2
+Delete schedule today at 21:00 | 2
+Delete schedule today at 22:00 | 2
+Delete schedule today at 23:00 | 2
+Delete schedule today at 1 am | 2
+Delete schedule today at 2 am | 2
+Delete schedule today at 3 am | 2
+Delete schedule today at 4 am | 2
+Delete schedule today at 5 am | 2
+Delete schedule today at 6 am | 2
+Delete schedule today at 7 am | 2
+Delete schedule today at 8 am | 2
+Delete schedule today at 9 am | 2
+Delete schedule today at 10 am | 2
+Delete schedule today at 11 am | 2
+Delete schedule today at 12 am | 2
+Delete schedule today at 1 pm | 2
+Delete schedule today at 2 pm | 2
+Delete schedule today at 3 pm | 2
+Delete schedule today at 4 pm | 2
+Delete schedule today at 5 pm | 2
+Delete schedule today at 6 pm | 2
+Delete schedule today at 7 pm | 2
+Delete schedule today at 8 pm | 2
+Delete schedule today at 10 pm | 2
+Delete schedule today at 9 pm | 2
+Delete schedule today at 11 pm | 2
+Delete schedule today at 12 pm | 2
+Remove schedule today at 00:00 | 2
+Remove schedule today at 01:00 | 2
+Remove schedule today at 02:00 | 2
+Remove schedule today at 03:00 | 2
+Remove schedule today at 04:00 | 2
+Remove schedule today at 05:00 | 2
+Remove schedule today at 06:00 | 2
+Remove schedule today at 07:00 | 2
+Remove schedule today at 08:00 | 2
+Remove schedule today at 09:00 | 2
+Remove schedule today at 10:00 | 2
+Remove schedule today at 11:00 | 2
+Remove schedule today at 12:00 | 2
+Remove schedule today at 13:00 | 2
+Remove schedule today at 14:00 | 2
+Remove schedule today at 15:00 | 2
+Remove schedule today at 16:00 | 2
+Remove schedule today at 17:00 | 2
+Remove schedule today at 18:00 | 2
+Remove schedule today at 19:00 | 2
+Remove schedule today at 20:00 | 2
+Remove schedule today at 21:00 | 2
+Remove schedule today at 22:00 | 2
+Remove schedule today at 23:00 | 2
+Remove schedule today at 1 am | 2
+Remove schedule today at 2 am | 2
+Remove schedule today at 3 am | 2
+Remove schedule today at 4 am | 2
+Remove schedule today at 5 am | 2
+Remove schedule today at 6 am | 2
+Remove schedule today at 7 am | 2
+Remove schedule today at 8 am | 2
+Remove schedule today at 9 am | 2
+Remove schedule today at 10 am | 2
+Remove schedule today at 11 am | 2
+Remove schedule today at 12 am | 2
+Remove schedule today at 1 pm | 2
+Remove schedule today at 2 pm | 2
+Remove schedule today at 3 pm | 2
+Remove schedule today at 4 pm | 2
+Remove schedule today at 5 pm | 2
+Remove schedule today at 6 pm | 2
+Remove schedule today at 7 pm | 2
+Remove schedule today at 8 pm | 2
+Remove schedule today at 10 pm | 2
+Remove schedule today at 9 pm | 2
+Remove schedule today at 11 pm | 2
+Remove schedule today at 12 pm | 2
+Erase schedule today at 00:00 | 2
+Erase schedule today at 01:00 | 2
+Erase schedule today at 02:00 | 2
+Erase schedule today at 03:00 | 2
+Erase schedule today at 04:00 | 2
+Erase schedule today at 05:00 | 2
+Erase schedule today at 06:00 | 2
+Erase schedule today at 07:00 | 2
+Erase schedule today at 08:00 | 2
+Erase schedule today at 09:00 | 2
+Erase schedule today at 10:00 | 2
+Erase schedule today at 11:00 | 2
+Erase schedule today at 12:00 | 2
+Erase schedule today at 13:00 | 2
+Erase schedule today at 14:00 | 2
+Erase schedule today at 15:00 | 2
+Erase schedule today at 16:00 | 2
+Erase schedule today at 17:00 | 2
+Erase schedule today at 18:00 | 2
+Erase schedule today at 19:00 | 2
+Erase schedule today at 20:00 | 2
+Erase schedule today at 21:00 | 2
+Erase schedule today at 22:00 | 2
+Erase schedule today at 23:00 | 2
+Erase schedule today at 1 am | 2
+Erase schedule today at 2 am | 2
+Erase schedule today at 3 am | 2
+Erase schedule today at 4 am | 2
+Erase schedule today at 5 am | 2
+Erase schedule today at 6 am | 2
+Erase schedule today at 7 am | 2
+Erase schedule today at 8 am | 2
+Erase schedule today at 9 am | 2
+Erase schedule today at 10 am | 2
+Erase schedule today at 11 am | 2
+Erase schedule today at 12 am | 2
+Erase schedule today at 1 pm | 2
+Erase schedule today at 2 pm | 2
+Erase schedule today at 3 pm | 2
+Erase schedule today at 4 pm | 2
+Erase schedule today at 5 pm | 2
+Erase schedule today at 6 pm | 2
+Erase schedule today at 7 pm | 2
+Erase schedule today at 8 pm | 2
+Erase schedule today at 10 pm | 2
+Erase schedule today at 9 pm | 2
+Erase schedule today at 11 pm | 2
+Erase schedule today at 12 pm | 2
+Obliterate schedule today at 1 pm | 2
+Obliterate schedule today at 2 pm | 2
+Obliterate schedule today at 3 pm | 2
+Obliterate schedule today at 4 pm | 2
+Obliterate schedule today at 5 pm | 2
+Obliterate schedule today at 6 pm | 2
+Obliterate schedule today at 7 pm | 2
+Obliterate schedule today at 8 pm | 2
+Obliterate schedule today at 10 pm | 2
+Obliterate schedule today at 9 pm | 2
+Obliterate schedule today at 11 pm | 2
+Obliterate schedule today at 12 pm | 2
+Obliterate schedule today at 1 am | 2
+Obliterate schedule today at 2 am | 2
+Obliterate schedule today at 3 am | 2
+Obliterate schedule today at 4 am | 2
+Obliterate schedule today at 5 am | 2
+Obliterate schedule today at 6 am | 2
+Obliterate schedule today at 7 am | 2
+Obliterate schedule today at 8 am | 2
+Obliterate schedule today at 9 am | 2
+Obliterate schedule today at 10 am | 2
+Obliterate schedule today at 11 am | 2
+Obliterate schedule today at 12 am | 2
+Terminate schedule today at 1 pm | 2
+Terminate schedule today at 2 pm | 2
+Terminate schedule today at 3 pm | 2
+Terminate schedule today at 4 pm | 2
+Terminate schedule today at 5 pm | 2
+Terminate schedule today at 6 pm | 2
+Terminate schedule today at 7 pm | 2
+Terminate schedule today at 8 pm | 2
+Terminate schedule today at 10 pm | 2
+Terminate schedule today at 9 pm | 2
+Terminate schedule today at 11 pm | 2
+Terminate schedule today at 12 pm | 2
+Terminate schedule today at 1 am | 2
+Terminate schedule today at 2 am | 2
+Terminate schedule today at 3 am | 2
+Terminate schedule today at 4 am | 2
+Terminate schedule today at 5 am | 2
+Terminate schedule today at 6 am | 2
+Terminate schedule today at 7 am | 2
+Terminate schedule today at 8 am | 2
+Terminate schedule today at 9 am | 2
+Terminate schedule today at 10 am | 2
+Terminate schedule today at 11 am | 2
+Terminate schedule today at 12 am | 2
+Terminate meeting today at 1 pm | 2
+Terminate meeting today at 2 pm | 2
+Terminate meeting today at 3 pm | 2
+Terminate meeting today at 4 pm | 2
+Terminate meeting today at 5 pm | 2
+Terminate meeting today at 6 pm | 2
+Terminate meeting today at 7 pm | 2
+Terminate meeting today at 8 pm | 2
+Terminate meeting today at 10 pm | 2
+Terminate meeting today at 9 pm | 2
+Terminate meeting today at 11 pm | 2
+Terminate meeting today at 12 pm | 2
+Terminate meeting today at 1 am | 2
+Terminate meeting today at 2 am | 2
+Terminate meeting today at 3 am | 2
+Terminate meeting today at 4 am | 2
+Terminate meeting today at 5 am | 2
+Terminate meeting today at 6 am | 2
+Terminate meeting today at 7 am | 2
+Terminate meeting today at 8 am | 2
+Terminate meeting today at 9 am | 2
+Terminate meeting today at 10 am | 2
+Terminate meeting today at 11 am | 2
+Terminate meeting today at 12 am | 2
+Cross out schedule today at 00:00 | 2
+Cross out schedule today at 01:00 | 2
+Cross out schedule today at 02:00 | 2
+Cross out schedule today at 03:00 | 2
+Cross out schedule today at 04:00 | 2
+Cross out schedule today at 05:00 | 2
+Cross out schedule today at 06:00 | 2
+Cross out schedule today at 07:00 | 2
+Cross out schedule today at 08:00 | 2
+Cross out schedule today at 09:00 | 2
+Cross out schedule today at 10:00 | 2
+Cross out schedule today at 11:00 | 2
+Cross out schedule today at 12:00 | 2
+Cross out schedule today at 13:00 | 2
+Cross out schedule today at 14:00 | 2
+Cross out schedule today at 15:00 | 2
+Cross out schedule today at 16:00 | 2
+Cross out schedule today at 17:00 | 2
+Cross out schedule today at 18:00 | 2
+Cross out schedule today at 19:00 | 2
+Cross out schedule today at 20:00 | 2
+Cross out schedule today at 21:00 | 2
+Cross out schedule today at 22:00 | 2
+Cross out schedule today at 23:00 | 2
+Cross out schedule today at 1 am | 2
+Cross out schedule today at 2 am | 2
+Cross out schedule today at 3 am | 2
+Cross out schedule today at 4 am | 2
+Cross out schedule today at 5 am | 2
+Cross out schedule today at 6 am | 2
+Cross out schedule today at 7 am | 2
+Cross out schedule today at 8 am | 2
+Cross out schedule today at 9 am | 2
+Cross out schedule today at 10 am | 2
+Cross out schedule today at 11 am | 2
+Cross out schedule today at 12 am | 2
+Cross out schedule today at 1 pm | 2
+Cross out schedule today at 2 pm | 2
+Cross out schedule today at 3 pm | 2
+Cross out schedule today at 4 pm | 2
+Cross out schedule today at 5 pm | 2
+Cross out schedule today at 6 pm | 2
+Cross out schedule today at 7 pm | 2
+Cross out schedule today at 8 pm | 2
+Cross out schedule today at 10 pm | 2
+Cross out schedule today at 9 pm | 2
+Cross out schedule today at 11 pm | 2
+Cross out schedule today at 12 pm | 2
+Set aside schedule today at 00:00 | 2
+Set aside schedule today at 01:00 | 2
+Set aside schedule today at 02:00 | 2
+Set aside schedule today at 03:00 | 2
+Set aside schedule today at 04:00 | 2
+Set aside schedule today at 05:00 | 2
+Set aside schedule today at 06:00 | 2
+Set aside schedule today at 07:00 | 2
+Set aside schedule today at 08:00 | 2
+Set aside schedule today at 09:00 | 2
+Set aside schedule today at 10:00 | 2
+Set aside schedule today at 11:00 | 2
+Set aside schedule today at 12:00 | 2
+Set aside schedule today at 13:00 | 2
+Set aside schedule today at 14:00 | 2
+Set aside schedule today at 15:00 | 2
+Set aside schedule today at 16:00 | 2
+Set aside schedule today at 17:00 | 2
+Set aside schedule today at 18:00 | 2
+Set aside schedule today at 19:00 | 2
+Set aside schedule today at 20:00 | 2
+Set aside schedule today at 21:00 | 2
+Set aside schedule today at 22:00 | 2
+Set aside schedule today at 23:00 | 2
+Set aside schedule today at 1 am | 2
+Set aside schedule today at 2 am | 2
+Set aside schedule today at 3 am | 2
+Set aside schedule today at 4 am | 2
+Set aside schedule today at 5 am | 2
+Set aside schedule today at 6 am | 2
+Set aside schedule today at 7 am | 2
+Set aside schedule today at 8 am | 2
+Set aside schedule today at 9 am | 2
+Set aside schedule today at 10 am | 2
+Set aside schedule today at 11 am | 2
+Set aside schedule today at 12 am | 2
+Set aside schedule today at 1 pm | 2
+Set aside schedule today at 2 pm | 2
+Set aside schedule today at 3 pm | 2
+Set aside schedule today at 4 pm | 2
+Set aside schedule today at 5 pm | 2
+Set aside schedule today at 6 pm | 2
+Set aside schedule today at 7 pm | 2
+Set aside schedule today at 8 pm | 2
+Set aside schedule today at 10 pm | 2
+Set aside schedule today at 9 pm | 2
+Set aside schedule today at 11 pm | 2
+Set aside schedule today at 12 pm | 2
+Cancel schedule today at 00:00 | 2
+Cancel schedule today at 01:00 | 2
+Cancel schedule today at 02:00 | 2
+Cancel schedule today at 03:00 | 2
+Cancel schedule today at 04:00 | 2
+Cancel schedule today at 05:00 | 2
+Cancel schedule today at 06:00 | 2
+Cancel schedule today at 07:00 | 2
+Cancel schedule today at 08:00 | 2
+Cancel schedule today at 09:00 | 2
+Cancel schedule today at 10:00 | 2
+Cancel schedule today at 11:00 | 2
+Cancel schedule today at 12:00 | 2
+Cancel schedule today at 13:00 | 2
+Cancel schedule today at 14:00 | 2
+Cancel schedule today at 15:00 | 2
+Cancel schedule today at 16:00 | 2
+Cancel schedule today at 17:00 | 2
+Cancel schedule today at 18:00 | 2
+Cancel schedule today at 19:00 | 2
+Cancel schedule today at 20:00 | 2
+Cancel schedule today at 21:00 | 2
+Cancel schedule today at 22:00 | 2
+Cancel schedule today at 23:00 | 2
+Cancel schedule today at 1 am | 2
+Cancel schedule today at 2 am | 2
+Cancel schedule today at 3 am | 2
+Cancel schedule today at 4 am | 2
+Cancel schedule today at 5 am | 2
+Cancel schedule today at 6 am | 2
+Cancel schedule today at 7 am | 2
+Cancel schedule today at 8 am | 2
+Cancel schedule today at 9 am | 2
+Cancel schedule today at 10 am | 2
+Cancel schedule today at 11 am | 2
+Cancel schedule today at 12 am | 2
+Cancel schedule today at 1 pm | 2
+Cancel schedule today at 2 pm | 2
+Cancel schedule today at 3 pm | 2
+Cancel schedule today at 4 pm | 2
+Cancel schedule today at 5 pm | 2
+Cancel schedule today at 6 pm | 2
+Cancel schedule today at 7 pm | 2
+Cancel schedule today at 8 pm | 2
+Cancel schedule today at 10 pm | 2
+Cancel schedule today at 9 pm | 2
+Cancel schedule today at 11 pm | 2
+Cancel schedule today at 12 pm | 2
+Cancel schedule with the gang from 9 pm to 7 am tomorrow | 2
+Cancel band schedule with black sabbath on monday | 2
+Cancel band schedule with the dirty black hen over the pen | 2
+Cancel serving coffee at the store tomorrow | 2
+Delete all my meetings today | 2
+Delete the slayer meetings from 9 pm tomorrow | 2
+Delete myself when there’s fire | 2
+Delete all the meetings next week | 2
+Next week delete meetings | 2
+Tomorrow delete meetings | 2
+Meetings tomorrow will be cancelled | 2
+Hi bot, delete my meetings. | 2
+Meetings cancelled from today up to tomorrow | 2
+Cancel all Jay Kyungs meeting from today up totomorrow | 2
+Cancel the selling of the new environment from today up to yesterday | 2
+Cancel which of which is not appropriate | 2
+Cancel business deal today | 2
+Diminish all the schedule today from 9 to 10 pm | 2
+Eradicate all orientations for September | 2
+Remove December tasks | 2
+Delete tasks related to executives | 2
+Erase all from the beginning of time | 2
+Eradicate gang schedules | 2
+Diminish surprise schedules | 2

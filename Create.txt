@@ -1,0 +1,263 @@
+1pm meeting at McDo | 1
+3pm conference at McKinley Hill | 1
+5pm SOLID presentation | 1
+7pm lecture at ICSMH | 1
+9pm date with husbando | 1
+11pm meetup at Vega | 1
+2am deadline for code refactor | 1
+4am inauguration at CCP | 1
+6am seminar at ICSLH 3 | 1
+8am discussion group meeting in America | 1
+10am webinar for AngularJS | 1
+12am skype conference with CEOs | 1
+Group meeting at Casa Felicidad, 5.30 p.m. | 1
+Speech choir presentation on 2.15 a.m. | 1
+Submission of art journal, 8.00 a.m. | 1
+CMSC 150 exam on 11.00 am | 1
+Flight to Tokyo at 9.45 a.m. | 1
+SM Calamba meetup on 4.00 pm | 1
+Schedule recital on Wednesday, 7:00 pm | 1
+Get haircut on Saturday, 10:15 a.m. | 1
+Buy groceries on Sunday at 1:00 p.m. | 1
+Walk the dog, Wednesday 6:00 p.m. | 1
+Submission of CMSC 150 exer 5 on Friday 1:00 p.m. | 1
+On Tuesday, 7pm meeting with Mamaid at 12pm | 1
+Begin 7pm seminar on Monday with Justin at 6.00 pm | 1
+Thursday, 9:00 a.m ribbon cutting at the restaurant | 1
+Commence 3p.m. stockholder's meeting in Lipa on Saturday | 1
+Start code review task on Friday, 9 a.m. | 1
+Launch unit testing script by 10a.m. on September 30, 2016 | 1
+On October 13, trigger CRON job at 2pm | 1
+Commence unit testing task at 5pm on Thursday September 29 | 1
+Begin code refactoring task by 11pm on Friday, October 8 | 1
+Note meeting by 1am with executives on Friday, September 23 | 1
+Attend Sentosa open house tomorrow, Sunday | 1
+Start meeting with client on 11pm Friday, | 1
+Commence meeting with the company at 7pm Friday. | 1
+Add meetings with the investor by 3 | 1
+Submit Competitive Programming ticket on Tuesday | 1
+Talk to the competitors by 10 pm.  | 1
+Do Jap 10 take home quiz on Monday night, Sept 19 | 1
+Collaborate with the team by 12 pm today at sentosa | 1
+Play dodgeball with “friends” on Thursday, 1 a.m. | 1
+Buy flower bouquets in Sabang on September 29 | 1
+Set volleyball training with the group | 1
+Do kill everybody at the stage by 20pm. | 1
+Pay globe broadband bill by the end of the month | 1
+Collaborate with the team by 3 pm tomorrow. | 1
+Set external client meeting with the gang | 1
+Add Presentation schedule at 5 pm. | 1
+Surf for life by 3 pm SGT. | 1
+Cook at home by 5:30 | 1
+Play guitar by 4:20 pm | 1
+Tell mother to go home by 7:30 | 1
+Watch ‘W’ KDrama tonight | 1
+Add meeting from 3 pm to 7 pm with Mr. So | 1
+Deliver chicken at Women’s Dormitory before 10 p.m. on Thursday | 1
+Karding’s presentation by 8. | 1
+Count ten hands at the hands and the foot. | 1
+Meeting at ICS by 3 pm. | 1
+Sleep at 1 p.m. | 1
+Tell everyone about the issues by 4 pm. | 1
+Wake up at 1 am. | 1
+Greet Mama happy birthday at 12.01 am | 1
+Play dota with the gang on Friday, October 21 | 1
+Serve coffee by 8 am. | 1
+Dismember the foods at the meeting at 6 pm. | 1
+Attend training on Machine Learning from Monday to Wednesday | 1
+From 7 pm to 6 am have meeting with erwin. | 1
+Send nico text message at update from 9 pm Wednesday to seven in the evening. | 1
+Practice playing the keyboard from 8 am - 12 nn | 1
+Attend training for Artificial Intelligence. | 1
+Sing “Wake me up Sept ends” to Pia | 1
+Talk to SP person by Mon | 1
+Pay HUM 2 field trip fee by Wednesday | 1
+Celebrate monthsary on Thursday, Sept 29 | 1
+Set meeting with the gang on Friday | 1
+Visit Pia on Saturday afternoon next week | 1
+Go to church on Sunday  | 1
+Play Sunday morning when the rain is falling by 6 am | 1
+Tell the priest that science is heart. | 1
+Collaborate with the lords that life is more important than drugs by 6 am at December 16. | 1
+Greet jaime happy Birthday on November 1. | 1
+Set pain endurance training at the bar. | 1
+Help jaime to format his schedule at the dorm by 3pm. | 1
+Sell seashells by the seashore. | 1
+Tell people that love isn’t the only reason to leave from 7 pm - 10pm | 1
+Share the love on Tuesday | 1
+Play golf with sir Danny at 9 am on Tues | 1
+Seminar by 6 pm in the navy’s elevator. | 1
+Tell people how ugly their code is before midgnight | 1
+Determine the meetings of your love ones today. | 1
+Attend frat finals on Friday evening | 1
+Listen to the falling rain on Saturday | 1
+Fangirl over Lee Jong-suk  | 1
+Watch little prince today. | 1
+Buy a second hand car next month | 1
+Give love on Christmas day | 1
+Binge watch Running Man during the weekend | 1
+Ask Xerxex to make the commencement exercise more meaningful. | 1
+Walk with Sun-Tzu at the dorm on friday 7 pm. | 1
+Tell the waifus that they have everything | 1
+Summarize all the meeting by todayAsk | 1
+Set meeting 9 pm to 6 pm | 1
+Set meeting at the park by 1 pm to 6 pm | 1
+Set a Stand up meeting from 2 am onwards  | 1
+Set that lights should be out by 8 pm | 1
+Set reunion alarm by 6 pm | 1
+Set jogging alert by 10 pm | 1
+Set dinner date with Pia  | 1
+Set coding Skuld bot day on Tuesday | 1
+Set meeting with Clinton in UPLB | 1
+Set tennis game by 10 am | 1
+Set movie date with the gang on Friday | 1
+Set shopping day on Saturday and Sunday | 1
+Set laundry this Saturday afternoon | 1
+Set grocery shopping on Sunday afternoon | 1
+Set family reunion on December 25, 2016  | 1
+Set errand day alarm tomorrow | 1
+Set the employment meeting with Mr. So today at the calibration meeting | 1
+Set surprise party at the music museum by night  | 1
+Set calendar celebration at the creep sight from 10 pm - 1 am today | 1
+Set melody line at the park tomorrow. | 1
+Assign Mamaid to say ‘sup’ 10 times today | 1
+Assign Rick to give ez CMSC 150 exers from 8 pm to 6 am | 1
+Assign Clinton to gather competitive programmers  | 1
+Assign Raf to go get a girlfriend from this month to next month | 1
+Assign Char to give Pia the latest version of BMIS | 1
+Assign Pau refactor Paypal logging module from today up to tomorrow | 1
+Assign Neil to drink with Moss next week | 1
+Assign Ken to Pi Sigma Fraternity when he said yes today | 1
+Assign Atoi find his cellphone from 3 pm to 9 pm later | 1
+Assign Jason to pay the water and electricity bills tomorrow | 1
+Assign Ed to cook for Nelia on Saturday from 6 pm  | 1
+Assign Carrie to let go of her ex today at 8 pm | 1
+Assign Caroline to stop meeting a lot of men  | 1
+Assign Lei accommodate all early exam takers of CMSC 150 from today to forever | 1
+Assign Reg make more soundcloud tracks next week | 1
+Assign Kim to drink with the gang at the latest date | 1
+Assign Carlo to finish the code refactor from 6 pm to 9 am Friday | 1
+Assign Charlene to know more about her job from 9 am to 4 pm | 1
+Assign Erwin to give Jaime more challenging tasks from 3 am to 6 am | 1
+Assign Justin to stop calling when a person who is on leave from 8 pm to 9pm | 1
+Arrange babyShower for Zur next month at the Palace hotel | 1
+Arrange stag party for Peter at the glimpse of the eyes | 1
+Arrange makeover session with Aira at the gym | 1
+Arrange open house at the park with Park Hyun Jim from September 19 2016 - future. | 1
+Arrange selfie pictorial with pia at the music museum at the park | 1
+Arrange everyday birthday day alert to everyone from today to September 20, 2016 | 1
+Arrange serious notes with the propaganda to the moon and back from september 16, 2016 up to today. | 1
+Arrange serious business relationship with the gang at gangnam from the bottom of my heart. | 1
+Arrange the peoples people at the same class set with the gang from october 14 to present today. | 1
+Arrange a meeting with Samboy Lim from November 1, 2016 to December 17 2016. | 1
+Arrange Raf to a blind date with Wilson this Thursday | 1
+Arrange platform meeting on the 2WS from 3 pm to 7 pm | 1
+Arrange double date for Clinton and Caraan on the 12th of October | 1
+Arrange Pia’s 20th birthday on July | 1
+Arrange back to school sales on June | 1
+Arrange another session of Mamaid saying ‘sup’ next week | 1
+Arrange jamming session with Hayley Williams of Paramore this October | 1
+Arrange meet and greet with One OK Rock on November | 1
+Arrange a meeting with Lee Jong-suk next month | 1
+Arrange Jaime’s 24th surprise birthday party this December | 1
+Organize Mon’s schedule to ensure no cramming from January 6, 2017 to June 6, 2017 | 1
+Organize Guia’s rants to be organized from 5 pm | 1
+Organize Dota sesh with the gang at 5 pm | 1
+Organize birthday party of Skuld on september 18, 2016 | 1
+Organize engagement party of Loki and Freyja | 1
+Organize Verdandi’s farewell party to the world of demons | 1
+Organize Urd’s bridalShower to think that life is not fair | 1
+Organize wedding rehearsals and have fault in the stars at the music museum 22 : 00 SGT | 1
+Organize firing by death squad of all narcissists fundings at the group of testing morphling several days from today | 1
+Organize death by burning on the stake of all pabebe girls in the navy bar at 22nd of june | 1
+Organize pancake party at Sentosa Aeon model house together with park shin hye at 42 pm | 1
+Organize band session with Black Sabbath from 9 am to 7 pm today | 1
+Organize operation reduce cigarette consumption of Jaime | 1
+Organize Cheon Song Yi and Do Min Joon dinner date | 1
+Organize hair rebond session at Nard’s Salon from today up to tomorrow | 1
+Organize facial checkup from Jaime to make the sewer taught from today and tomorrow | 1
+Organize theatre presentation to make science not easy to understand, love won’t always be an understatement from 6 pm to 10 pm today | 1
+Organize contract signing event with Taylor Swift when love isn’t just one hello from programmer’s day up to today | 1
+Organize cooking session with Jaime at the beach from december 16, 2016 to january 17, 2017 | 1
+Organize movie preview at SM Lipa with someone and ate yolee forever. | 1
+Plan meeting with the squad from yesterday up to today | 1
+Plan group meeting with the executives from this day onwards | 1
+Plan executive’s meeting tomorrow up to november 27, 2016 | 1
+Plan stockholder’s meeting tomorrow  | 1
+Plan homeowner's association meeting at the beach from tomorrow up to today | 1
+Plan women’s dorm orientation till twilight and noon | 1
+Plan arch org orientation within the month  | 1
+Plan Pi Sigma frat orientation at 6 pm sharp | 1
+Plan surprise wedding proposal to waifu at 9 pm  | 1
+Plan construction from 9 pm to 10 pm today | 1
+Plan costume making with HUM 2 fam | 1
+Plan japanese 101 seminar with the weeabos at 9 pm today | 1
+Plan SOLID webinar with the gang of four from 6 am today | 1
+Plan family reunion from today up to tomorrow | 1
+Plan high school reunion and read my script from 6 pm to today | 1
+Plan christmas party with the gang when there’s no one around at 8 pm | 1
+Plan trip to baguio with jaime for the love of god from 10 pm to today | 1
+Plan excursion trip to enchanted kingdom when today is not today | 1
+Plan pokemon go jogging route today up to tomorrow when the moon shines from the heaven’s above when life will be sheet so green and so young tomorrow | 1
+Plan magikarp’s evolution to gyarados tomorrow when black sabbath didn’t even go. | 1
+schedule 7pm meeting with Mamaid to 12pm | 1
+launch 7pm meeting with Mamaid to 12pm | 1
+begin 12pm meeting at McDo | 1
+commence 3pm meeting at McKinley Hill | 1
+open code review task | 1
+launch test cases | 1
+trigger job [ung nakaschedule shit. di ko alam term] at 2pm | 1
+commence unit testing task at 5pm | 1
+begin code refactoring task by 11pm | 1
+begin meeting by 1am | 1
+set up presentation materials | 1
+take up coding task at 10am | 1
+take up unit testing at 1am | 1
+launch meeting by 15:00 | 1
+start automated tests by 14:00 with Charlene | 1
+launch job [ung nakaschedule shit. di ko alam term] at 18:00 with Feng | 1
+schedule unit testing task at 20:00 with Justin | 1
+commence refactoring task by 00:00 | 1
+start meeting by 16:00 with Charlene and Feng | 1
+begin 7am meeting with Jaime at Jollibee | 1
+augurate 9pm meeting at Pizza Hut with Jaime | 1
+take up deployment task by 2:30pm | 1
+attend 3pm meeting at McKinley Hill | 1
+set up code review task | 1
+trigger alarm for 15:45 meeting | 1
+launch alarm for 9:20pm meeting with Mamang, Feng, Charlene | 1
+set up skype for meeting with Mamang by 3 am | 1
+set up tasks to deploy by 5:00 am | 1
+commence presentation by 9.30pm | 1
+schedule training from 12:00 to 5:00pm | 1
+ | 1
+schedule 7pm meeting with Mamaid to 12pm | 1
+launch 7pm meeting with Mamaid to 12pm | 1
+begin 12pm meeting at McDo | 1
+commence 3pm meeting at McKinley Hill | 1
+open code review task | 1
+launch test cases | 1
+trigger job [ung nakaschedule shit. di ko alam term] at 2pm | 1
+commence unit testing task at 5pm | 1
+begin code refactoring task by 11pm | 1
+begin meeting by 1am | 1
+set up presentation materials | 1
+take up coding task at 10am | 1
+take up unit testing at 1am | 1
+launch meeting by 15:00 | 1
+start automated tests by 14:00 with Charlene | 1
+launch job yung nakaschedule at 18:00 with Feng | 1
+schedule unit testing task at 20:00 with Justin | 1
+commence refactoring task by 00:00 | 1
+start meeting by 16:00 with Charlene and Feng | 1
+begin 7am meeting with Jaime at Jollibee | 1
+augurate 9pm meeting at Pizza Hut with Jaime | 1
+take up deployment task by 2:30pm | 1
+attend 3pm meeting at McKinley Hill | 1
+set up code review task | 1
+trigger alarm for 15:45 meeting | 1
+launch alarm for 9:20pm meeting with Mamang, Feng, Charlene | 1
+set up skype for meeting with Mamang by 3 am | 1
+set up tasks to deploy by 5:00 am | 1
+commence presentation by 9.30pm | 1
+schedule training from 12:00 to 5:00pm | 1
