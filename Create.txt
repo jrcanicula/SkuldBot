@@ -1,15 +1,43 @@
-1pm meeting at McDo | 1
-3pm conference at McKinley Hill | 1
-5pm SOLID presentation | 1
-7pm lecture at ICSMH | 1
-9pm date with husbando | 1
-11pm meetup at Vega | 1
-2am deadline for code refactor | 1
-4am inauguration at CCP | 1
-6am seminar at ICSLH 3 | 1
-8am discussion group meeting in America | 1
-10am webinar for AngularJS | 1
-12am skype conference with CEOs | 1
+create hillsong today| 1
+set | 1
+add | 1
+by | 1
+meetings | 1
+plan | 1
+organize | 1
+commence | 1
+launch | 1
+do | 1
+arrange | 1
+assign | 1
+plan | 1
+begin | 1
+set up | 1
+attend | 1
+commence | 1
+start | 1
+begin | 1
+set | 1
+up | 1
+set up | 1
+meeting | 1
+schedule | 1
+take up | 1
+take | 1 
+schedule training | 1
+commence presentation | 1
+1 pm meeting at McDo | 1
+3 pm conference at McKinley Hill | 1
+5 pm SOLID presentation | 1
+7 pm lecture at ICSMH | 1
+9 pm date with husbando | 1
+11 pm meetup at Vega | 1
+2 am deadline for code refactor | 1
+4 am inauguration at CCP | 1
+6 am seminar at ICSLH 3 | 1
+8 am discussion group meeting in America | 1
+10 am webinar for AngularJS | 1
+12 am skype conference with CEOs | 1
 Group meeting at Casa Felicidad, 5.30 p.m. | 1
 Speech choir presentation on 2.15 a.m. | 1
 Submission of art journal, 8.00 a.m. | 1

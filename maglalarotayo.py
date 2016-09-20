@@ -38,14 +38,14 @@ x_train_tfidf = tfidf_transformer.fit_transform(x_train_counts)
 
 #clf = svm.LinearSVC().fit(x_train_tfidf, training_data['classes'])
 
-clf =svm.LinearSVC(penalty='l2', loss='squared_hinge', dual=True, tol=0.0001, C=3.2, multi_class='ovr', fit_intercept=True, intercept_scaling=1, class_weight=None, verbose=0, random_state=42, max_iter=1000).fit(x_train_tfidf,training_data['classes'])
+clf =svm.LinearSVC(penalty='l2', loss='squared_hinge', dual=True, tol=0.0001, C=1, fit_intercept=True, intercept_scaling=1, class_weight=None, verbose=0, random_state=42, max_iter=1000).fit(x_train_tfidf,training_data['classes'])
 
 #C=1.0, cache_size=200, class_weight=None, coef0=0.0,
  #   decision_function_shape=None, degree=3, gamma='auto', kernel='rbf',
   #  max_iter=-1, probability=False, random_state=None, shrinking=True,
    # tol=0.001, verbose=False
 
-tasks_new = ['Get on, saranghae, delete, deletion haircut, mitsukake, delete all tasks saranghae delete insert add add today new task Get haircut on Saturday','kinakarir ng lahat','simple','saranghae aishiteru, konbanwa','salty','maritime,kiligami','taramisoe123','saranghae','Selemene','list all the documents i have','i can list all you want','misclassified shits within the mic']
+tasks_new = ['Get on, saranghae, delete, deletion haircut, mitsukake, delete all tasks saranghae delete insert add add today new task Get haircut on Saturday','kinakarir ng lahat creator create a new task from 5 pm to 6 am','create meeting for god sake at 7 pm','holy motherfucker delete all meetings','create a hillsong today','create meetings today','training a bot next sunday 8 pm at times sqaure makati','meeting at 5 pm','walang ka malay malay malaysia','list all schedules today','I want my schedule today','pia carmela quizon is love and we will commence a meeting today','mother of god','meeting with Josh 22 pm please','named fuck it when time is not love create a meeting with delete all meetings']
 
 x_new_counts = count_vect.transform(tasks_new)
 

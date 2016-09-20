@@ -9,7 +9,7 @@ regex = re.compile(pattern)
 create_task_dataset = 'Create.txt'
 delete_task_dataset = 'Delete.txt'
 retrieve_task_dataset = 'List.txt'
-dummy_dataset = "Dummy.txt"
+dummy_dataset = "dictionary.txt"
 
 
 def read_from_file(filename=''):
