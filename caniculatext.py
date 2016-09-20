@@ -53,8 +53,4 @@ vectorizer = HashingVectorizer(stop_words='english', non_negative=True,
 
 
 
-
-
-print()
-
-print('pogi ako')
+								   
