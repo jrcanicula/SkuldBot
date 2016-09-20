@@ -9,6 +9,7 @@ regex = re.compile(pattern)
 create_task_dataset = 'Create.txt'
 delete_task_dataset = 'Delete.txt'
 retrieve_task_dataset = 'List.txt'
+dummy_dataset = "Dummy.txt"
 
 
 def read_from_file(filename=''):
@@ -40,21 +41,24 @@ def read_from_file(filename=''):
 
 
 def get_data():
+    dummy_data_set  = read_from_file(dummy_dataset)
     create_data_set = read_from_file(create_task_dataset)
     delete_data_set = read_from_file(delete_task_dataset)
     retrieve_data_set = read_from_file(retrieve_task_dataset)
-
+    
     # append data sets
     data = []
     data.extend(create_data_set['names'])
     data.extend(delete_data_set['names'])
     data.extend(retrieve_data_set['names'])
-
+    data.extend(dummy_data_set['names'])
+    
     # append classes
     classes = []
     classes.extend(create_data_set['classes'])
     classes.extend(delete_data_set['classes'])
     classes.extend(retrieve_data_set['classes'])
+    classes.extend(dummy_data_set['classes'])
 
     return dict(names=data,
                 classes=classes)

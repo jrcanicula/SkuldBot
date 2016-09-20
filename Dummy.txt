@@ -1,0 +1,26 @@
+Dummy somasda | 0
+Kukurekapoo | 0
+Selemen | 0
+gnuplot, etc. make it easy to plot real valued functions of 2 variables |0
+but I want to plot functions whose values are 2-vectors. I have been | 0
+doing this by plotting arrays of arrows (complete with arrowheads) but | 0
+before going further, I thought I would ask whether someone has already | 0
+done the work. Any pointers?? | 0| 0
+thanx in advance | 0 
+CALL FOR PRESENTATIONS | 0NAVY SCIENTIFIC VISUALIZATION AND VIRTUAL REALITY SEMINAR | 0Tuesday, June 22, 1993 | 0Carderock Division, Naval Surface Warfare Center | 0
+	      (formerly the David Taylor Research Center) | 0
+			  Bethesda, Maryland | 0SPONSOR: NESS (Navy Engineering Software System) is sponsoring a  | 0
+one-day Navy Scientific Visualization and Virtual Reality Seminar.   | 0
+The purpose of the seminar is to present and exchange information for | 0
+Navy-related scientific visualization and virtual reality programs,  | 0
+research, developments, and applications. | 0PRESENTATIONS: Presentations are solicited on all aspects of  | 0
+Navy-related scientific visualization and virtual reality.  All  | 0
+current work, works-in-progress, and proposed work by Navy  | 0
+organizations will be considered.  Four types of presentations are  | 0
+available. | 01. Regular presentation: 20-30 minutes in length | 0
+     2. Short presentation: 10 minutes in length | 0
+     3. Video presentation: a stand-alone videotape (author need not  | 0
+	attend the seminar) | 0
+     4. Scientific visualization or virtual reality demonstration (BYOH) | 0Accepted presentations will not be published in any proceedings,  | 0
+however, viewgraphs and other materials will be reproduced for  | 0
+seminar attendees. | 0
